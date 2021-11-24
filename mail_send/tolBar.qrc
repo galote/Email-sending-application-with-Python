@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="tolbar_icos">
+    <file>Mail-search-icon.png</file>
+    <file>email.png</file>
+    <file>draft.png</file>
+    <file>folder.png</file>
+    <file>save-file.png</file>
+    <file>send-mail.png</file>
+  </qresource>
+</RCC>
